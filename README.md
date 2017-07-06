@@ -1,4 +1,3 @@
-# Shadowsocks-libev
 #!/bin/bash
 mkdir Shadowsocks
 cd Shadowsocks
